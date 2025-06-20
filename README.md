@@ -1,3 +1,5 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://berkeley-course-compass.streamlit.app)
+
 # 🎓 Berkeley Course Compass
 
 Find your next favorite Berkeley class with AI-powered recommendations.
